@@ -18,8 +18,6 @@ $(call inherit-product, vendor/aospa/prebuilt/pixel/packages.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \
-    PixelDocumentsUIGoogleOverlay \
-    PixelDocumentsUIOverlay \
     PixelFrameworksOverlay \
     PixelSettingsOverlay \
     PixelSetupWizardOverlay \
